@@ -11,8 +11,8 @@ My current guesswork amounts to this:
 | idx | value      | remark |
 |-----|------------|--------|
 | 0   | Start and Status | >127
-| 2   | Over/Under range
-| 1   | db 100     
+| 1   | Over/Under range
+| 2   | db 100     
 | 3   | db 10
 | 4   | db 1
 | 5   | db 0.1
